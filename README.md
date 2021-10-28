@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ganshyam921
+- 👋 Hi, I’m @ganshyam
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning rajasthan technical university kota from computer science engineering
 - 📫 How to reach me Email-dasghanshyam54@gmail.com
